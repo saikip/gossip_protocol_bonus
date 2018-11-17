@@ -35,7 +35,7 @@ To run a test case, do:
 
 Examples:
 
-   1)
+1)
    C:\Users\PSaikia\Documents\Elixir\kv\gossip_protocol_bonus>mix run go.exs 2000 rand2D gossip 10
 
    Running Gossip algorithm
@@ -46,7 +46,7 @@ Examples:
    
    Failed Nodes: 200
    
-   2)
+2)
    C:\Users\PSaikia\Documents\Elixir\kv\gossip_protocol_bonus>mix run go.exs 700 3D push-sum 30
    
    Running Push-Sum algorithm
