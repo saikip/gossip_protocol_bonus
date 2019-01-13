@@ -1,9 +1,7 @@
 ## **GOSSIP PROTOCOL - BONUS PART - COP5615: Fall 2018**
 
-## **TEAM MEMBERS**
+## **TEAM INFO**
 Priyam Saikia (UFID **** ****)
-
-Noopur R Kalawatia (UFID **** ****)
 
 ## **PROBLEM**
 Implement node and failure model for gossip and/or push-sum algorithm. The analysis should
